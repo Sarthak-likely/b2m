@@ -22,9 +22,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ARM64](https://img.shields.io/badge/ARM64-Tested-brightgreen)](https://github.com/)
 [![ARM32](https://img.shields.io/badge/ARM32-Pending-yellow)](https://github.com/)
-[![Termux](https://img.shields.io/badge/Termux-Supported-blue)](https://termux.com/)
+[![Termux](https://img.shields.io/badge/Termux-Supported-blue)](https://github.com/termux/termux-app)
 
 </div>
+
+<a href='https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a53' target="_blank"><img alt='ARM' src='https://img.shields.io/badge/Cortex_A53-100000?style=flat&logo=ARM&logoColor=white&labelColor=267C72&color=black'/></a>
+
 
 ## 📋 Overview
 
