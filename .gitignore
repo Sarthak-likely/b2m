@@ -1,0 +1,36 @@
+# Binaries
+b2m
+b2m-stripped
+*.o
+*.a
+*.so
+*.d
+
+# Test files
+*.mid
+test.bin
+*.test
+
+# Build directories
+obj/
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+compile_commands.json
+
+# Samples (user content)
+tests/samples/*
+!tests/samples/.gitkeep
