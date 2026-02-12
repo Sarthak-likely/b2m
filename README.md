@@ -47,7 +47,7 @@ B2M converts any binary file (images, audio, executables, documents) into a MIDI
 
 ```bash
 pkg install git make gcc
-git clone https://github.com/yourusername/b2m.git
+git clone https://github.com/Sarthak-likely/b2m.git
 cd b2m
 make install
 ```
@@ -55,7 +55,7 @@ make install
 Or one-line installer:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/yourusername/b2m/main/scripts/install.sh | bash
+curl -sL https://raw.githubusercontent.com/Sarthak-likely/b2m/main/scripts/install.sh | bash
 ```
 
 ## 📖 Usage
